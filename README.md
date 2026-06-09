@@ -5,7 +5,7 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Swagath+Banda+👋;Data+Analyst+with+5%2B+Years+of+Experience;Turning+Data+into+Decisions+📊;Healthcare+%7C+PBM+%7C+Payer+Analytics+Expert;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Swagath+Banda+👋;Data+Analyst+with+5%2B+Years+of+Experience;Turning+Data+into+Decisions+📊;Healthcare+%7C+PBM+%7C+Payer+Analytics+Expert;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,6 +19,12 @@
 ## 🙋‍♂️ About Me
 
 I'm **Swagath Banda**, a results-driven **Data Analyst** with **5+ years of experience** transforming complex healthcare and business data into clear, actionable insights. I specialize in **Healthcare Claims Analytics**, **PBM & Payer Analytics**, **HEDIS**, and **CMS Star Ratings** — helping organizations make smarter, data-backed decisions.
+
+When I'm not wrangling data, I'm sharing knowledge with the community through content creation! 🎥
+
+- 🎬 **YouTube** — Tutorials on data analytics, SQL, Power BI & more
+- ✍️ **Medium** — Deep-dives into data, healthcare analytics & tech
+- 📸 **Instagram** — Behind-the-scenes of life as a data professional
 
 ### ⚡ Fun Facts About Me
 - 🔍 I can spot a data anomaly before my morning coffee kicks in
@@ -117,7 +123,7 @@ I'm **Swagath Banda**, a results-driven **Data Analyst** with **5+ years of expe
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swagathbanda&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=swagathbanda&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
