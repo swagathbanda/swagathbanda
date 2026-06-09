@@ -122,8 +122,19 @@ When I'm not wrangling data, I'm sharing knowledge with the community through co
 <!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
+> 🏅 Trophy showcase loads dynamically on the live profile page at [github.com/swagathbanda](https://github.com/swagathbanda)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swagathbanda&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/🏆%20GitHub%20Trophies-View%20on%20Profile-FFD700?style=for-the-badge" alt="View Trophies on Profile"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Committed-darkgreen?style=for-the-badge&logo=github&logoColor=white" alt="Committed"/>
+  <img src="https://img.shields.io/badge/Follower-blue?style=for-the-badge&logo=github&logoColor=white" alt="Follower"/>
+  <img src="https://img.shields.io/badge/Repositories-orange?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Stars-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Issues-red?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-purple?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
 </p>
 
 ---
