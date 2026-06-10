@@ -20,12 +20,6 @@
 
 I'm **Swagath Banda**, a results-driven **Data Analyst** with **5+ years of experience** transforming complex healthcare and business data into clear, actionable insights. I specialize in **Healthcare Claims Analytics**, **PBM & Payer Analytics**, **HEDIS**, and **CMS Star Ratings** — helping organizations make smarter, data-backed decisions.
 
-When I'm not wrangling data, I'm sharing knowledge with the community through content creation! 🎥
-
-- 🎬 **YouTube** — Tutorials on data analytics, SQL, Power BI & more
-- ✍️ **Medium** — Deep-dives into data, healthcare analytics & tech
-- 📸 **Instagram** — Behind-the-scenes of life as a data professional
-
 ### ⚡ Fun Facts About Me
 - 🔍 I can spot a data anomaly before my morning coffee kicks in
 - 📊 I believe every dataset has a story waiting to be told
